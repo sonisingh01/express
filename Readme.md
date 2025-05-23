@@ -37,7 +37,7 @@ app.listen(3000)
 ```
 
 
-#soni singh
+#central university of punjab
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
